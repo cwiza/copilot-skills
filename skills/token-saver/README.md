@@ -15,9 +15,18 @@ See [QUICK_START.md](./QUICK_START.md) for an actionable checklist.
 
 ## Installation
 
-Copy `copilot-instructions.md` to your project's `.github/` folder:
+Choose your version:
+
+| Version | Tokens | Best For |
+|---------|--------|----------|
+| **Lite** (~300 tokens) | Low overhead | Most users |
+| Full (~3,500 tokens) | Comprehensive | Learning/reference |
 
 ```bash
+# Lite version (recommended)
+cp copilot-instructions-lite.md /path/to/your/project/.github/copilot-instructions.md
+
+# Full version
 cp copilot-instructions.md /path/to/your/project/.github/copilot-instructions.md
 ```
 
