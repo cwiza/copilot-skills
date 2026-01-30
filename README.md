@@ -14,6 +14,7 @@ Skills are instruction sets that teach Copilot best practices for specific scena
 | Skill | Description |
 |-------|-------------|
 | [Token Saver](./skills/token-saver/) | Avoid token limits when using Copilot, especially with Playwright tests |
+| [Skill Creator](./skills/skill-creator/) | Guide for creating effective skills (from [Anthropic](https://github.com/anthropics/skills)) |
 
 ## Installation
 
